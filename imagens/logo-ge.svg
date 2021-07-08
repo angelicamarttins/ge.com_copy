@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 37.5px;
+        text-anchor: middle;
+        font-family: Arial;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="_ge" data-name="       ge" class="cls-1" x="2.2" y="27.2"><tspan x="2.2">      </tspan><tspan x="2.2" dy="45">ge</tspan></text>
+  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-1" x="8" y="93"><tspan x="8">Lorem Ipsum</tspan></text>
+  <text id="ge" class="cls-2" x="26" y="34"><tspan x="26">ge</tspan></text>
+</svg>
